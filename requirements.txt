@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langchain-mistralai
+python-dotenv
+langchain-tavily
+streamlit
+pydantic
+# Optional but commonly needed
+requests
+beautifulsoup4
+lxml
+tiktoken
+faiss-cpu
