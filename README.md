@@ -394,10 +394,3 @@ Built using:
 
 ---
 
-This version is much more suitable for:
-
-* GitHub README
-* Resume project links
-* Recruiter review
-* Portfolio showcase
-* Technical interviews
