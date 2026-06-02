@@ -2,7 +2,7 @@
 
 ---
 
-# 📰 AI News Intelligence Dashboard
+# 📰 AI News Intelligence Dashboard  -  using RAG (generative ai)
 
 ## Overview
 
